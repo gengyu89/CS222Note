@@ -52,7 +52,7 @@ tags:
 
 ### Gale-Shapley 算法
 
-<img src="figures\GS_algorithm.png" alt="image-20200908102336433" style="zoom: 80%;" />
+<img src="figures\GS_algorithm.png" alt="image-20200908102336433" style="zoom: 67%;" />
 
 ### 算法分析
 
